@@ -79,7 +79,6 @@ docker run -p 9000:80 <your_docker_name>
 ```
 
 # Output
-Go to http://localhost:9000/site/index.html
 ![Screenshot](image.png)
 
 
